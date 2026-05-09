@@ -1,8 +1,8 @@
 class Things3Cli < Formula
   desc "CLI tool for Things 3 with integrated MCP server"
   homepage "https://github.com/GarthDB/rust-things3"
-  url "https://github.com/GarthDB/rust-things3/archive/v1.4.0.tar.gz"
-  sha256 "36cf62bb016da30a3032024b1586ff72d3a178e81d4689f328ea9cfd16052125"
+  url "https://github.com/GarthDB/rust-things3/archive/v2.0.0.tar.gz"
+  sha256 "5d07c44a9a4a171bd320d525d59ed220f6321eb606f707acb51a2e5cdee90377"
   license "MIT"
   head "https://github.com/GarthDB/rust-things3.git", branch: "main"
 
